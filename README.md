@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashmit%20Singh&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=25&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="./banner.svg" width="100%" alt="Header Banner" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=AI+Engineer+%26+Deep+Learning+Specialist;LLM+Architectures+%26+Neural+Networks;MERN+Full-Stack+Web+Developer;Crafting+Intelligent%2C+Scalable+Solutions)](https://git.io/typing-svg)
 

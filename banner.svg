@@ -1,0 +1,51 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <!-- Subtle Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Rect -->
+  <rect width="800" height="250" fill="url(#bg)" rx="15" ry="15" />
+
+  <!-- Abstract Shapes -->
+  <circle cx="100" cy="50" r="150" fill="#38bdf8" opacity="0.05" filter="url(#glow)"/>
+  <circle cx="700" cy="200" r="100" fill="#f43f5e" opacity="0.05" filter="url(#glow)"/>
+  <circle cx="400" cy="250" r="200" fill="#818cf8" opacity="0.05" filter="url(#glow)"/>
+
+  <!-- Decorative Line -->
+  <rect x="50" y="40" width="40" height="4" fill="url(#accent)" rx="2" />
+
+  <!-- Main Text -->
+  <text x="50" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#ffffff" letter-spacing="-1">
+    Ashmit Singh
+  </text>
+
+  <!-- Subtitle Text -->
+  <text x="50" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="url(#accent)">
+    AI Engineer &amp; Full-Stack Developer
+  </text>
+
+  <!-- Description Text -->
+  <text x="50" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#94a3b8">
+    Specializing in Deep Learning, Large Language Models, and Scalable MERN Architectures.
+  </text>
+  <text x="50" y="215" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#94a3b8">
+    Transforming data and algorithms into intelligent systems.
+  </text>
+</svg>
