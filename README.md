@@ -41,7 +41,7 @@ status: "Building intelligent systems that solve real-world challenges"
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+<img src="./skills-banner.svg" alt="Tech Stack Banner" width="100%" />
 
 <div align="center">
 
@@ -98,7 +98,7 @@ status: "Building intelligent systems that solve real-world challenges"
 
 ---
 
-### 📊 GitHub Activity & Analytics
+<img src="./analytics-banner.svg" alt="Analytics Banner" width="100%" />
 
 <div align="center">
   <table border="0">
@@ -135,7 +135,7 @@ status: "Building intelligent systems that solve real-world challenges"
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+<img src="./connect-banner.svg" alt="Connect Banner" width="100%" />
 
 <div align="center">
   <a href="https://github.com/ashmitsingh-ai">
