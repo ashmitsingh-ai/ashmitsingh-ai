@@ -1,7 +1,7 @@
 <div align="center">
 
-  # ⚡ Hi there, I'm Ashmit Singh 👋
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashmit%20Singh&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=25&animation=twinkling" width="100%" alt="Header Banner" />
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=AI+Engineer+%26+Deep+Learning+Specialist;LLM+Architectures+%26+Neural+Networks;MERN+Full-Stack+Web+Developer;Crafting+Intelligent%2C+Scalable+Solutions)](https://git.io/typing-svg)
 
   <p align="center">
@@ -119,6 +119,10 @@ status: "Building intelligent systems that solve real-world challenges"
   <br/><br/>
 
   <img src="https://github-profile-trophy.vercel.app/?username=ashmitsingh-ai&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Ashmit's Trophies" width="95%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitsingh-ai&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=F43F5E&point=FFFFFF&hide_border=true" alt="Ashmit's GitHub Activity Graph" width="95%" />
 </div>
 
 ---
